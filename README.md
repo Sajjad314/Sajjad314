@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Hossain</h1>
 <h3 align="center">A aspiring Software Engineer and passionate Fullstack developer</h3>
-<img align="right" alt="coding" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjbTV3amUxaWZ1bWJxcmh3MnFvYmJmOGRkZ3pxbmM4ZXRma3lyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjbTV3amUxaWZ1bWJxcmh3MnFvYmJmOGRkZ3pxbmM4ZXRma3lyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad314&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad314" /> </p>
 
